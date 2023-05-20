@@ -1,2 +1,1 @@
-# desaf-node-nginx
-# desaf-node-nginx
+docker-compose up -d --build
